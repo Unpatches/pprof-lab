@@ -64,7 +64,15 @@ pprof-lab/
 <img width="759" height="800" alt="image" src="https://github.com/user-attachments/assets/604b5393-ed5b-45c7-a27f-f3153d7e3d24" />
 <img width="263" height="800" alt="image" src="https://github.com/user-attachments/assets/1fb775e0-5b77-4e1a-b442-0061a5270264" />
 <img width="426" height="703" alt="image" src="https://github.com/user-attachments/assets/e660a013-1b95-417f-9c73-198bd67be3fb" />
+<img width="952" height="983" alt="image" src="https://github.com/user-attachments/assets/07d1dfb6-6038-4c99-9e26-4a78a6afd6b9" />
 
+### Логи до оптимизации
+<img width="429" height="465" alt="image" src="https://github.com/user-attachments/assets/109197e0-c2bf-4c2c-83d4-b214bca1d2bf" />
 
+### Логи после оптимизации
+<img width="431" height="427" alt="image" src="https://github.com/user-attachments/assets/8c3017d6-5745-483e-ba5c-c218f7118bfd" />
+
+### Бенчмарк до и после оптимизации
+<img width="714" height="199" alt="image" src="https://github.com/user-attachments/assets/8cd9d6ce-2057-42eb-8a0a-aac49095e2ed" />
 
 
